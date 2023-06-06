@@ -1,0 +1,5 @@
+{"host":"localhost",
+"user":"fahmi",
+"database":"authapi_test",
+"password":"4321fa",
+"port":5432}
